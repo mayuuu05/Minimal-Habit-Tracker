@@ -22,13 +22,12 @@ The Flutter Habit Tracker is a sleek and intuitive mobile application designed t
 
 
 ### Technologies Used
-- 🚀 Flutter: A powerful UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
-- 🔧 GetX: For state management, navigation, and dependency injection.
-- 🔥 flutter_heatmap_calendar: To create and customize the heat map for habit tracking.
-- 🌟 simple_gradient_text: To apply gradient effects to text elements within the app.
-- 🗄️ Isar Database: For lightweight and high-performance local data storage.
+- ``` 🚀 Flutter``` A powerful UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
+- ```🔧 GetX ```For state management, navigation, and dependency injection.
+- ```🔥 flutter_heatmap_calendar ``` To create and customize the heat map for habit tracking.
+- ```🌟 simple_gradient_text ```To apply gradient effects to text elements within the app.
+- ```🗄️ Isar Database ``` For lightweight and high-performance local data storage.
 - And many more.
-
 
 <div align = "center">
  
